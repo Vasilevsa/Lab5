@@ -1,0 +1,6 @@
+﻿  Queue_int.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\Александр\source\repos\Lab5New\Lab5\Lab5\Queue_int.cpp(48): warning C4715: Queue_int::operator=: значение возвращается не при всех путях выполнения
+C:\Users\Александр\source\repos\Lab5New\Lab5\Lab5\Queue_int.cpp(70): warning C4715: Queue_int::operator=: значение возвращается не при всех путях выполнения
+  Lab5.vcxproj -> C:\Users\Александр\source\repos\Lab5New\Lab5\Debug\Lab5.exe
